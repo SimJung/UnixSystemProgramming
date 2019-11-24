@@ -1,0 +1,4 @@
+합계 20
+-rw-r--r-- 1 jung jung     0 11월 24 23:30 ls.txt
+-rwxr-xr-x 1 jung jung 13696 11월 24 23:23 myshell
+-rw-r--r-- 1 jung jung  3249 11월 24 23:23 myshell.c
